@@ -59,9 +59,18 @@ The central question is: **can transfer learning from ImageNet-pretrained networ
 
 ## 📂 Repository Structure
 
-* `Project_Cesaratto_Porro.ipynb` — Complete notebook: loading, EDA, cleaning, split, preprocessing, models, comparison, test evaluation, XAI and Gradio interface
-* `FDL_project_Cesaratto_Porro.pdf` — Presentation slides
+* `Food Image Classification Codes.ipynb`: complete notebook covering loading, EDA, cleaning, split, preprocessing, models, comparison, test evaluation, XAI and the Gradio interface
+* `Result presentation FDL.pdf`: presentation slides
 * **Checkpoints** (not stored here): the 58 saved model files (about 1 GB in total) are hosted on [Google Drive](https://drive.google.com/drive/folders/1YfQGV-dEGzlLDw21_w0SONf6Ak5CZkid?usp=sharing)
+
+---
+
+## ▶️ How to Run
+
+1. Open the notebook in [Google Colab](https://colab.research.google.com/).
+2. Download the checkpoints from the Google Drive folder above and place them in your own Drive.
+3. Update the paths in the first cells of the notebook and run the cells in order.
+
 ---
 
 ## ⚠️ Limitations
@@ -72,10 +81,4 @@ The central question is: **can transfer learning from ImageNet-pretrained networ
 
 ---
 
-## 👥 Contributors
-
-- [@ilaria-cesa](https://github.com/ilaria-cesa)
-
----
 *Developed by Andrea Porro and Ilaria Cesaratto.*
-
